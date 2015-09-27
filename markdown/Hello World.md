@@ -1,4 +1,4 @@
-# Hello World
+﻿# Hello World
 
 你们好,这里是斗门一中电视台官方Blog.
 
@@ -8,3 +8,4 @@
 
 欢迎大家捧场哦!
 
+![斗门一中电视台](http://7xn36u.com1.z0.glb.clouddn.com/台标.png)
